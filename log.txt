@@ -2,3 +2,4 @@ Uploading LFS objects: 100% (1/1), 59 MB | 2.2 MB/s, done.
 Uploading LFS objects: 100% (1/1), 59 MB | 2.1 MB/s, done.
 Uploading LFS objects: 100% (1/1), 72 MB | 2.5 MB/s, done.
 Uploading LFS objects: 100% (1/1), 74 MB | 2.5 MB/s, done.
+Uploading LFS objects: 100% (1/1), 80 MB | 2.5 MB/s, done.
